@@ -1,13 +1,19 @@
-.ativos{
-max-width:100%;
+/* .ativos{}*/
 
 
-}
 h1{
-    display: flex;
+    display: grid;margin: 10px; 
     flex-direction: row;
 }
 h3{
-    display: flex;
+    display: grid;margin: 10px;
     flex-direction: row;
 }
+section{
+display: grid;margin: 10px;
+width: 1200px;
+height: 100%;
+
+}
+/* script{} */
+   
