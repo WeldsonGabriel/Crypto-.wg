@@ -1,6 +1,11 @@
 /* .ativos{}*/
 
+body{
 
+    background-color: #707b9e;
+    display: grid; 
+    max-width: 1200px;
+}
 h1{
     display: grid;margin: 10px; 
     flex-direction: row;
@@ -10,10 +15,12 @@ h3{
     flex-direction: row;
 }
 section{
-display: grid;margin: 10px;
+display:grid;
+columns:  1rf,2rf,3rf,4rf;
 width: 1200px;
 height: 100%;
 
 }
+
 /* script{} */
    
