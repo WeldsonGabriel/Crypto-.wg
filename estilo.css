@@ -14,13 +14,5 @@ h3{
     display: grid;margin: 10px;
     flex-direction: row;
 }
-section{
-display:grid;
-columns:  1rf,2rf,3rf,4rf;
-width: 1200px;
-height: 100%;
-
-}
-
 /* script{} */
    
